@@ -2,4 +2,4 @@
 My dmenu setup.
 
 # How does it look?
-It's red. That's pretty much it.
+~~It's red. That's pretty much it.~~ It's actually purple now.
